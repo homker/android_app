@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testforrx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="helloword">weclome PaPa</string>
+
+    <string name="TipErr_null">you must input some thing</string>
+
+    <string name="loginName">Login Name:</string>
+    <string name="loginTip">please input your study num</string>
+    <string name="loginNameErr_wrong">there is no people in there</string>
+
+    <string name="passWord">Pass Word:</string>
+    <string name="passTip">please input your id-card</string>
+    <string name="passTipErr_null">login fail</string>
+
+    <string name="loginBtn">Login</string>
+
+</resources>
